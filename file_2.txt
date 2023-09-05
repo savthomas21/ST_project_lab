@@ -1,2 +1,3 @@
 this is my first line
 this is the second
+here is a new line
